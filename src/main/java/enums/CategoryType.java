@@ -1,6 +1,5 @@
 package enums;
 
-import lombok.Getter;
 
 public enum CategoryType {
     FOOD("Food", 1),
